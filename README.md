@@ -1,1 +1,3 @@
-teste
+- Atividade acadêmica da disciplina de programação distribuída e paralela da faculdade de Engenharia de Computação.
+- Sistema desenvolvido em Python, com back-end utilizando Flask e servidor de fila com Apache ActiveMQ.
+- Client utilizando a ferramenta Page.
